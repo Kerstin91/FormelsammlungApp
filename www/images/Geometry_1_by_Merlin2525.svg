@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2987" viewBox="0 0 927.71 437.13" version="1.1">
+  <defs id="defs2989">
+    <filter id="filter3924" height="1.0639" width="1.2295" y="-.031963" x="-.11476" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3926" stdDeviation="2.9793977"/>
+    </filter>
+    <filter id="filter3847" height="1.204" width="1.0744" y="-.10202" x="-.037224" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3849" stdDeviation="3.4270157"/>
+    </filter>
+    <filter id="filter4070" height="1.2206" width="1.0715" y="-.11032" x="-.03575" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4072" stdDeviation="3.5181338"/>
+    </filter>
+    <linearGradient id="linearGradient4091" y2="102.2" gradientUnits="userSpaceOnUse" x2="38.301" gradientTransform="translate(250.03 83.396)" y1="445.44" x1="147.31">
+      <stop id="stop3811" offset="0"/>
+      <stop id="stop3819" stop-color="#00f" offset=".37415"/>
+      <stop id="stop3817" stop-color="#00f" offset=".58718"/>
+      <stop id="stop3813" stop-color="#0ff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4093" y2="273.86" gradientUnits="userSpaceOnUse" x2="332.2" y1="473.97" x1="281.73">
+      <stop id="stop3910" stop-color="#fff" stop-opacity="0" offset="0"/>
+      <stop id="stop3912" stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient4095" gradientUnits="userSpaceOnUse" cy="371.58" cx="305.5" gradientTransform="matrix(.52173 1.6375 -1.4328 .65001 676.45 -384.75)" r="62.644">
+      <stop id="stop3025" stop-color="#fff" offset="0"/>
+      <stop id="stop3033" stop-color="#f00" offset=".25"/>
+      <stop id="stop3031" stop-color="#f00" offset=".46968"/>
+      <stop id="stop3027" offset="1"/>
+    </radialGradient>
+    <linearGradient id="linearGradient4097" y2="205.5" gradientUnits="userSpaceOnUse" x2="630.3" gradientTransform="translate(-364.07 57.847)" y1="282.2" x1="847.32">
+      <stop id="stop3283" stop-color="#400400" offset="0"/>
+      <stop id="stop3285" stop-color="#c08400" offset=".39067"/>
+      <stop id="stop3287" stop-color="#fcfc80" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4099" y2="118.75" gradientUnits="userSpaceOnUse" x2="-398.26" gradientTransform="translate(783.24 158.39)" y1="311.86" x1="-388.4">
+      <stop id="stop3239" stop-opacity=".83206" offset="0"/>
+      <stop id="stop3245" stop-color="#8c5000" offset=".33739"/>
+      <stop id="stop3241" stop-color="#c88c00" offset=".52936"/>
+      <stop id="stop3243" stop-color="#fcfc80" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient4101" y2="93.85" gradientUnits="userSpaceOnUse" x2="-487.15" gradientTransform="translate(784.29 158.53)" y1="68.865" x1="-361.02">
+      <stop id="stop3129" stop-color="#985c00" offset="0"/>
+      <stop id="stop3131" stop-color="#f4e86c" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(125.01 -175.08)">
+    <g id="g4085">
+      <g id="g3973" transform="translate(330.16 -53.137)">
+        <path id="path3013" d="m240.03 493.3 101.59-265.08 122.34 266.93c-11.7 54.339-213.72 63.028-223.93-1.8516z" fill="url(#linearGradient4091)"/>
+        <path id="path3906" opacity=".7" filter="url(#filter3924)" d="m339.38 242.66-61.462 205.77c-7.5731 25.353 38.142 21.612 40.084 2.6723z" fill="url(#linearGradient4093)"/>
+      </g>
+      <path id="path3073" opacity=".435" filter="url(#filter3847)" d="m147.8 631.35c0 22.263-49.463 40.31-110.48 40.31-61.016 0-110.48-18.047-110.48-40.31s49.463-40.31 110.48-40.31c61.016 0 110.48 18.047 110.48 40.31z" transform="translate(646.67 -67.677)"/>
+    </g>
+    <g id="g4074">
+      <path id="path2995" d="m376.91 397.5c0 41.284-28.046 74.751-62.644 74.751-34.597 0-62.644-33.467-62.644-74.751s28.046-74.751 62.644-74.751c34.597 0 62.644 33.467 62.644 74.751z" fill="url(#radialGradient4095)" transform="matrix(2.042 0 0 1.7113 -638.84 -325.34)"/>
+      <path id="path3851" opacity=".43077" filter="url(#filter3847)" d="m147.8 631.35c0 22.263-49.463 40.31-110.48 40.31-61.016 0-110.48-18.047-110.48-40.31s49.463-40.31 110.48-40.31c61.016 0 110.48 18.047 110.48 40.31z" transform="translate(-29.128 -67.677)"/>
+    </g>
+    <g id="g4078">
+      <path id="path3853" opacity=".43" filter="url(#filter4070)" d="m-889.24 588.16 175.22-4.1678 59.826-75.811-175.48 4.3012z" transform="matrix(.99989 .014597 -.014597 .99989 1116.8 23.046)"/>
+      <g id="g3289" transform="translate(3.989 27.262)">
+        <path id="path3021" d="m416.13 267.1 61.599-55.026 1.2101 169.57-63.052 74.591z" fill="url(#linearGradient4097)"/>
+        <rect id="rect3119" height="189.75" width="189.75" y="265.8" x="226.77" fill="url(#linearGradient4099)"/>
+        <path id="path3123" d="m227.64 265.99 66.151-53.937 183.96 0.045-60.762 54.651z" fill="url(#linearGradient4101)"/>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Geometry 1</dc:title>
+        <dc:date>2011-02-08T07:52:22</dc:date>
+        <dc:description>A set of 3 Geometry Shapes floating in mid-air. Drawn with Inkscape.</dc:description>
+        <dc:source>http://openclipart.org/detail/117355/geometry-1-by-merlin2525</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Merlin2525</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>3d</rdf:li>
+            <rdf:li>ciencia</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>figura</rdf:li>
+            <rdf:li>figuras</rdf:li>
+            <rdf:li>figure</rdf:li>
+            <rdf:li>figures</rdf:li>
+            <rdf:li>forma</rdf:li>
+            <rdf:li>formas</rdf:li>
+            <rdf:li>forme</rdf:li>
+            <rdf:li>formes</rdf:li>
+            <rdf:li>geometria</rdf:li>
+            <rdf:li>geometric</rdf:li>
+            <rdf:li>geometrica</rdf:li>
+            <rdf:li>geometrico</rdf:li>
+            <rdf:li>geometrie</rdf:li>
+            <rdf:li>geometrique</rdf:li>
+            <rdf:li>geometry</rdf:li>
+            <rdf:li>matematica</rdf:li>
+            <rdf:li>matematicas</rdf:li>
+            <rdf:li>math</rdf:li>
+            <rdf:li>mathematic</rdf:li>
+            <rdf:li>mathematics</rdf:li>
+            <rdf:li>mathematique</rdf:li>
+            <rdf:li>mathematiques</rdf:li>
+            <rdf:li>object</rdf:li>
+            <rdf:li>objecto</rdf:li>
+            <rdf:li>objectos</rdf:li>
+            <rdf:li>objects</rdf:li>
+            <rdf:li>science</rdf:li>
+            <rdf:li>shape</rdf:li>
+            <rdf:li>shapes</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

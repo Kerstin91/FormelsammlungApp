@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.example.formelsammlung" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Formelsammlung</name>
+    <description>
+        Eine auf OER basierende Formelsammlung, die von LehrerInnen verwendet, verändert und individuell 
+        gestaltet werden kann. Das Titelbild von Albert Einstein ist unter dem folgenden Link zu finden
+        (Stand: 04. April 2014): http://jackikellum.files.wordpress.com/2013/07/albert-einstein1.jpg
+        Die Animationsbilder wurden mit der Software MatheGrafix gestaltet. Dieses Programm kann unter
+        folgendem Link heruntergeladen werden: LINK 
+    </description>
+    <author email="schneiderkerstin91@gmail.com" href="http://cordova.io">
+        Kerstin Schneider - Studentin der Pädagogischen Hochschule Weingarten (Stand 2014)
+    </author>
+    <content src="startseite.html" />
+    <access origin="*" />
+</widget>

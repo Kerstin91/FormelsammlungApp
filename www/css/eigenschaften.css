@@ -1,0 +1,109 @@
+body{
+background-color:lightgrey;
+color: black;
+font-size: 87.5%; /*Für responsive, Base font size is 14px*/
+font-family: Arial, 'Lucida Sans Unicode';
+line-height: 1.5;
+text-align: left;
+}
+
+.body{
+margin: 0 auto;
+width: 95%;
+clear: both;
+}
+
+.mainheader p{
+background-color: #BDBDBD;
+text-align: center;
+height: 30px;
+font-weight: bold;
+font-size: 1.1em;
+padding-top: 10px;
+outline: 1px solid black;
+margin-top: 1.5%;
+margin-bottom: 10px;
+}
+
+.maincontent{
+width: 100%;
+}
+
+.tabelle{
+margin-bottom: 1.5%;
+width: 100%;
+outline: 1px solid black;
+}
+
+.tabelle tr{ /* Inhalt der Tabelle*/
+background-color: white;
+}
+
+.tabelle th{
+font-size: 1.2em;
+padding-left: 10px;
+}
+
+.tabelle td{
+width: 40%;
+}
+
+.tabelle td img{
+width: 100%;
+}
+
+.tabelle td li a{
+line-height: 30px;
+}
+
+
+@media only screen and (min-width: 150px) and (max-width: 600px) 
+{
+
+	body{
+	background-color: white;
+	}
+
+	.body{
+	width: 100%;
+	font-size: 100%;
+	}
+	
+	.mainheader p{
+	margin-top: 0%;
+	margin-bottom: 1px;
+	border: 1px solid black;
+	}
+	
+	.maincontent{
+	margin-top: -9px;
+	}
+	
+	.tabelle{
+	margin-bottom: 0%;
+	width: 100%;
+	margin-top: -1px;
+	border: 1px solid black;
+	}
+
+	.tabelle th{
+	font-size: 1.2em;
+	padding-left: 10px;
+	outline: 1px solid grey;
+	}
+
+	.tabelle td{
+	outline: 1px solid grey;
+	}
+
+
+	
+}
+
+
+
+
+
+
+
+

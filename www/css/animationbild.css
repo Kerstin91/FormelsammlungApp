@@ -1,0 +1,80 @@
+body{
+background-color:lightgrey;
+color: black;
+font-size: 87.5%; /*Für responsive, Base font size is 14px*/
+font-family: Arial, 'Lucida Sans Unicode';
+line-height: 1.5;
+text-align: left;
+}
+
+.body{
+margin: 0 auto;
+width: 95%;
+clear: both;
+}
+
+.mainheader p{
+background-color: #BDBDBD;
+text-align: center;
+height: 30px;
+font-weight: bold;
+font-size: 1.1em;
+padding-top: 10px;
+outline: 1px solid black;
+margin-top: 1.5%;
+margin-bottom: 10px;
+}
+
+.maincontent{
+width: 100%;
+margin-bottom: 1.5%
+}
+
+.bild img{
+width: 100%;
+outline: 1px solid black;
+}
+
+.sidebar{
+outline: 1px solid black;
+padding-left: 20px;
+font-size: 2em;
+background-color: #BDBDBD;
+}
+
+@media only screen and (min-width: 150px) and (max-width: 600px) 
+{
+
+	body{
+	background-color: #BDBDBD;
+	}
+
+	.body{
+	width: 100%;
+	font-size: 100%;
+	}
+	
+	.mainheader p{
+	margin-top: 0%;
+	margin-bottom: 1px;
+	}
+	
+	.maincontent{
+	margin-bottom: 0%;
+	}
+	
+
+	.bild img{
+	width: 100%;
+	}
+	
+	.sidebar{
+	margin-top: -5px;
+	font-size: 1.5em;
+	padding-top: 2px;
+	outline: none;
+	}
+	
+}
+
+

@@ -1,0 +1,113 @@
+body{
+background-color:lightgrey;
+color: black;
+font-size: 87.5%; /*Für responsive, Base font size is 14px*/
+font-family: Arial, 'Lucida Sans Unicode';
+line-height: 1.5;
+text-align: left;
+}
+
+a:visited, a:hover, a:active, a:link{
+color: black;
+}
+
+.body{
+margin:0 auto;
+width:95%; 
+}
+
+.ersterheader{
+background-color: #BDBDBD;
+color: #585858;
+text-align: center;
+font-size: 0.9em;
+outline: 1px solid black;
+margin-top: 1.5%;
+padding-top: 5px;
+padding-bottom: 2px;
+}
+
+.maincontent{
+margin-top: 1.5%;
+width:100%;
+margin-bottom: 1.5%;
+}
+
+.content{
+text-align: left;
+font-size: 3em;
+float: left;
+width: 50%;
+padding-top: 40px;
+padding-right: 20px;
+padding-left: 20px;
+}
+
+.quadrat, .rechteck, .parallelogramm, .dreieck, .trapez, .eigenschaften{
+width: 100%;
+background-color:white;
+outline: 1px solid black;
+display: block;
+}
+
+.rechteck{
+margin-top: 0.5px;
+}
+
+.parallelogramm{
+margin-top: 1px;
+}
+
+.dreieck{
+margin-top: 1px;
+}
+
+.trapez{
+margin-top: 1px;
+}
+
+.eigenschaften{
+margin-top: 1px;
+}
+
+.quadrat img, .rechteck img, .parallelogramm img, .dreieck img, .trapez img, .eigenschaften img{
+width: 30%;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+@media only screen and (min-width: 150px) and (max-width: 600px) 
+{
+	body{
+	background-color: grey;
+	}
+	
+	.ersterheader{
+	margin-top: 0%;
+	margin-bottom: 1px;
+	}
+
+	.body{
+	width: 100%;
+	font-size: 100%;
+	}
+	
+	.maincontent{
+	margin-top: 0%;
+	margin-bottom: 0%;
+	}
+	
+	.content{
+	font-size: 1.1em;
+	font-weight: bold;
+	float: left;
+	width: 50%;
+	padding-top: 50px;
+	padding-right: 0px;
+	}
+	
+	.quadrat img, .rechteck img, .parallelogramm img, .dreieck img, .trapez img, .eigenschaften img{
+	width: 40%;
+	}
+
+}

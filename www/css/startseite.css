@@ -1,0 +1,149 @@
+body{
+background-color:lightgrey;
+color: black;
+font-size: 87.5%; /*Für responsive, Base font size is 14px*/
+font-family: Arial, 'Lucida Sans Unicode';
+}
+
+.body{
+margin: 0 auto;
+width:95%;
+clear:both; /*no floating?! Beendet das Umfließen anderer Elemente*/ 
+}
+
+.mainheader{
+outline: 1px solid black;
+background-color: #BDBDBD;
+margin-top: 1.5%;
+}
+
+.mainheader p{
+text-align: center;
+font-size: 1.3em;
+width:100%;
+font-weight: bold;
+background:#BDBDBD;
+margin-bottom: 3px;
+padding-top: 20px;
+}
+
+.schrift{
+font-size: 1.1em;
+text-align: center;
+height: 35px;
+margin-top: 20px;
+background-color: #BDBDBD;
+}
+
+/* Portrait layout (default) */
+.app{
+width: 100%;
+text-align: center;
+padding-top: 10px;
+}
+
+.app img{
+outline: 1px solid black;
+width: 100%;
+margin-bottom: 0px;
+}
+
+.blink{
+background-color: #BDBDBD;
+text-align: center;
+height: 60px;
+margin-top: 10px;
+}
+
+.blink p{
+text-align: center;
+font-size: 1.1em;
+width:100%;
+font-weight: bold;
+background:#BDBDBD;
+margin-bottom:30px;
+padding-top: 20px;
+padding-bottom: 20px;
+outline: 1px solid black;
+}
+
+
+.myButton {
+	background-color:#BDBDBD;
+	border:2px solid #869187;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	padding: 2px 2px 2px 2px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#c0c7bd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+@media only screen and (min-width: 150px) and (max-width: 600px) 
+{
+	body{
+	background-color: #BDBDBD;
+	}
+	
+	.body{
+	width:100%;
+	font-size: 100%;
+	}
+	
+	.mainheader{
+	margin-top: 0%;
+	}
+
+	.mainheader p{
+	width:100%;
+	margin:1px;
+	padding-top: 35px;
+	font-size: 1.5em;
+	}
+	
+	.schrift{
+	margin-top: 20px;
+	padding-bottom: 20px;
+	font-size: 1.3em;
+	}
+	
+	.app{
+	padding-top: 0px;
+	}
+	
+	.app img{
+	width: 100%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	}
+
+	.blink p{
+	margin-top: -12px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	outline: none;
+	font-size: 1.2em;
+	}
+	
+	.myButton{
+	font-size: 1.3em;
+	}
+
+}
+
+
+
+
+
