@@ -1,0 +1,10 @@
+{ 
+    "launch_path":"/startseite.html",
+    "installs_allowed_from":["*"],
+    "version":"0.0.1",
+    "name":"Formelsammlung",
+    "pkgName":"com.github.kessi91.formelsammlung",
+    "icons": {
+        "128": "/img/logo.png"
+    }
+}
