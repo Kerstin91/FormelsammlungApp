@@ -2,3 +2,5 @@ merges
 platforms
 plugins
 .cordova
+.DS_Store
+
