@@ -71,7 +71,7 @@ Die Erzeugung der Android-Platform muss nun im selben Verzeichnis stattfinden. D
 alle in diesem Bereich ausgeführt werden: `cd app`.
 
 Wichtig bei dem nächsten Schritt ist, dass das SDK von dem Rechner unterstützt wird und bereits installiert wurde, 
-sonst kann die Platform nicht erstellt werden: `cordova add android platform`
+sonst kann die Platform nicht erstellt werden: `cordova platform add android`
 
 Dies kann einige Minuten in Anspruch nehmen. Durch die Benachrichtigung im Terminal "platform build successfully", 
 kann die App auf dem Smartphone gebaut werden.
